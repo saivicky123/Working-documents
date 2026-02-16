@@ -1,63 +1,96 @@
-👋 Hi, I'm Vignesh
-<p align="center"> <img src="images/profile.jpg" width="220" style="border-radius:50%" alt="Vignesh"/> </p>
-🚀 DevOps Engineer
+<h1 align="center">Hi 👋, I'm Vignesh</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
-Passionate DevOps engineer focused on building scalable, automated, and highly available infrastructure.
-Strong hands-on experience across CI/CD, containerization, configuration management, and cloud platforms.
+<p align="center">
+  <img src="images/vignesh.png" width="180" style="border-radius:50%" />
+</p>
 
-🧠 Expertise
+<p align="center">
+Building scalable infrastructure, automating deployments and mastering Kubernetes.
+</p>
 
-Linux Administration
+---
 
-CI/CD Pipeline Design
+## 👨‍💻 About Me
 
-Infrastructure as Code
+- 🔭 Working on **Kubernetes & Cloud Native**
+- 🧠 Completed **Docker & Ansible (Beginner → Advanced)**
+- ⚙️ Strong in **CI/CD, Automation, Linux**
+- 🎯 Goal: Become **Senior DevOps / SRE**
+- 💬 Ask me about **AWS, Jenkins, Docker, Ansible**
 
-Containerization & Orchestration
+---
 
-Build & Release Engineering
+## 🛠️ Tech Toolbox
 
-Monitoring & Troubleshooting
+### 💻 OS
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
-🛠️ Tech Stack
+### 🔁 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-Operating System
-Linux
+### 🚀 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-Version Control & SCM
-Git, GitHub
+### 📦 Build & Repo
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype)
 
-CI/CD
-Jenkins
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-Build Tools & Artifact Mgmt
-Maven, Nexus
+### ⚡ Automation
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml)
 
-Containers & Orchestration
-Docker, Kubernetes
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-Configuration Management & Automation
-Ansible, Bash, YAML
+---
 
-Cloud
-AWS
+## 📚 Currently Leveling Up
 
-📘 Learning & Growing
+🚀 Deep dive into:
 
-Advanced Kubernetes (networking, security, scaling)
+- Kubernetes Architecture  
+- Helm  
+- Ingress & Networking  
+- Observability  
+- GitOps  
 
-GitOps & platform engineering practices
+---
 
-Observability & reliability patterns
+## 🧩 DevOps Strength
 
-🏆 Highlights
+✔ CI/CD pipelines  
+✔ Container lifecycle  
+✔ Infra automation  
+✔ Release engineering  
+✔ Troubleshooting production issues  
+✔ High availability mindset  
 
-✅ Built CI/CD pipelines for containerized apps
-✅ Dockerized multi-tier applications
-✅ Automated deployments using Ansible
-✅ Working with Kubernetes workloads & services
-✅ Experience with AWS infrastructure
+---
 
-📫 Connect With Me
+## 📈 GitHub Stats
 
-GitHub: https://github.com/saivicky123
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saivicky123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivicky123&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/saivicky123">
+  <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+⭐ From **Vignesh** | DevOps 🚀
