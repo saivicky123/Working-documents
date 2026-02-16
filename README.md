@@ -1,33 +1,63 @@
-# 😎 Hey! Nice to see you 🚀
+👋 Hi, I'm Vignesh
+<p align="center"> <img src="images/profile.jpg" width="220" style="border-radius:50%" alt="Vignesh"/> </p>
+🚀 DevOps Engineer
 
-### DevOps Learner!
+Passionate DevOps engineer focused on building scalable, automated, and highly available infrastructure.
+Strong hands-on experience across CI/CD, containerization, configuration management, and cloud platforms.
 
-**Vignesh** — DevOps Engineer (Learner)  
-Working with Linux, AWS & CI/CD 🚀
+🧠 Expertise
 
----
+Linux Administration
 
-## 🧠 Things I am familiar with
+CI/CD Pipeline Design
 
-![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-green?logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-red)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
-![Nexus](https://img.shields.io/badge/Nexus-black)
+Infrastructure as Code
 
----
+Containerization & Orchestration
 
-## 📚 Currently Learning
+Build & Release Engineering
 
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform&logoColor=white)
+Monitoring & Troubleshooting
 
----
+🛠️ Tech Stack
 
-## 📫 Connect with me
+Operating System
+Linux
 
-- GitHub: https://github.com/saivicky123
+Version Control & SCM
+Git, GitHub
 
+CI/CD
+Jenkins
+
+Build Tools & Artifact Mgmt
+Maven, Nexus
+
+Containers & Orchestration
+Docker, Kubernetes
+
+Configuration Management & Automation
+Ansible, Bash, YAML
+
+Cloud
+AWS
+
+📘 Learning & Growing
+
+Advanced Kubernetes (networking, security, scaling)
+
+GitOps & platform engineering practices
+
+Observability & reliability patterns
+
+🏆 Highlights
+
+✅ Built CI/CD pipelines for containerized apps
+✅ Dockerized multi-tier applications
+✅ Automated deployments using Ansible
+✅ Working with Kubernetes workloads & services
+✅ Experience with AWS infrastructure
+
+📫 Connect With Me
+
+GitHub: https://github.com/saivicky123
